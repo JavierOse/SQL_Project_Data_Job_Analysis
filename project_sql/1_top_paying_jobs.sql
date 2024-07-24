@@ -29,3 +29,17 @@ ORDER BY
     salary_year_avg DESC
 LIMIT
     15;
+/*
+Three key insights based on salary of data analyst roles in California:
+
+1. **High Salary Range**: The data analyst and related positions in the San Francisco Bay Area, 
+    particularly with companies like Anthropic and OpenAI, offer exceptionally high average annual salaries, 
+    with the highest listed at $350,000 for a Data Analyst position at Anthropic.
+
+2. **Prominent Employers**: Major tech companies such as TikTok, Anthropic, OpenAI, and Genentech dominate the job listings,
+    indicating high demand for data professionals within these organizations. 
+    TikTok, in particular, has multiple job postings across various locations in California.
+
+3. **Geographic Concentration**: The majority of these high-paying data roles are concentrated in San Francisco, CA, 
+    and surrounding areas such as San Jose, Mountain View, and Sunnyvale, highlighting the region as a hotspot for lucrative data-related career opportunities.
+*/
