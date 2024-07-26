@@ -33,7 +33,7 @@ In this project, I utilized several tools to perform my analysis and manage my w
 
 By leveraging these tools, I was able to conduct a thorough analysis and present my findings effectively.
 # My Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market in California. Here’s how I approached each question:
+Each query for this project aimed to investigate specific aspects of the data analyst job market in California. Here’s how I approached each question:
 
 ## 1. Top Paying Data Analyst Jobs
 To identify the highest-paying roles, I filtered data analyst positions by average yearly salary and location, focusing on jobs in California. This query highlights the high-paying opportunities in the field.
