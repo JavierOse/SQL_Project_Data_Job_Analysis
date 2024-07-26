@@ -2,7 +2,7 @@
 🚀 Welcome to the Data Job Market Exploration Project! This project is part of a comprehensive course I followed on YouTube, designed to delve deep into the world of data analyst roles. Here, we explore:
 - 💰 Top-paying jobs in the data industry
 - 🔥 In-demand skills that make you a standout candidate
-- 📊 Where high demand skills intersects with high salaries in data analytics
+- 📊 Where high-demand skills intersect with high salaries in data analytics
 
 If you're interested in SQL queries, you can check them out here: [project_sql folder](/project_sql/).
 # Background
@@ -13,7 +13,7 @@ Moreover, this course provided valuable insight into the job market, assisting m
 As a culminating task, the course presented this project, allowing me to showcase the work I accomplished and the skills I honed. If you're interested in following the same course, you can find it [SQL Course](https://lukebarousse.com/sql).
 
 ### Here are the questions I answered through my SQL Queries:
-1. What are the top-paying data analyst job?
+1. What are the top-paying data analyst jobs?
 2. What skills are required for these top-paying jobs?
 3. What skills are most in demand for data analysts?
 4. Which skills are associated with higher salaries?
@@ -59,10 +59,10 @@ ORDER BY
 LIMIT
     15;
 ```
-Three key insights based on salary of data analyst roles in California:
+Three key insights based on the salary of data analyst roles in California:
 
 1. **High Salary Range**: The data analyst and related positions in the San Francisco Bay Area, 
-    particularly with companies like Anthropic and OpenAI, offer exceptionally high average annual salaries, 
+    particularly with companies like Anthropic and OpenAI, which offer exceptionally high average annual salaries, 
     with the highest listed at $350,000 for a Data Analyst position at Anthropic.
 
 2. **Prominent Employers**: Major tech companies such as TikTok, Anthropic, OpenAI, and Genentech dominate the job listings,
@@ -73,10 +73,10 @@ Three key insights based on salary of data analyst roles in California:
     and surrounding areas such as San Jose, Mountain View, and Sunnyvale, highlighting the region as a hotspot for lucrative data-related career opportunities.
 
 ![Top Paying Companies](assets\top_paying_roles.png)
-*Bar graph visualizing the top salaries from companies for Data Analyst position in California; ChatGPT generated this graph from my SQL query results*
+*Bar graph visualizing the top salaries from companies for Data Analyst positions in California; ChatGPT generated this graph from my SQL query results*
 
 ## 2. Skills Required for Top-Paying Jobs
-To understand what skills are required for the top paying jobs for a Data Analyst Position in California, I joined the job postings and skills data table to analyze and create a meaningful insight into what skills companies value for higher compensation.
+To understand what skills are required for the top-paying jobs for a Data Analyst Position in California, I joined the job postings and skills data table to analyze and create a meaningful insight into what skills companies value for higher compensation.
 ```sql
 WITH top_paying_jobs AS (
     SELECT
@@ -131,7 +131,7 @@ These insights highlight the essential and desirable skills for data analyst rol
 
 *Here is a bar chart that visualizes the skills for the top paying Data Analyst job in California with more than one mention; ChatGPT generated this graph from my SQL query results.*
 
-## 3. In-Demand Skills For Data Analyst in CA
+## 3. In-Demand Skills For Data Analysts in CA
 This query helped identify the most frequently requested skills in job postings, directing focus to high-demand areas.
 
 ```sql
@@ -174,7 +174,7 @@ Three Key Insights:
 *Table of the demand for the top 5 skills in data analyst job postings in the state of California*
 
 ## 4. Skills Based On Salary
-The query presented assisted me in idenitfying the average salaries associated with different skills to reveal which skills are the highest paying as a Data Analyst inside California.
+The query presented assisted me in identifying the average salaries associated with different skills to reveal which skills are the highest paying as a Data Analyst in California.
 
 ```sql
 SELECT
@@ -222,7 +222,7 @@ Three key insights based on the skills and average salary for data analysts in t
 
 *Table of the Top 10 skills with the highest average salaries, but the demand count for these skills could be less*
 
-## 5. Optimial Skills To Learn
+## 5. Optimal Skills To Learn
 This query identifies the most optimal skills to learn for data analysts in the state of California.
 
 ```sql
