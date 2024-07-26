@@ -72,7 +72,7 @@ Three key insights based on the salary of data analyst roles in California:
 3. **Geographic Concentration**: The majority of these high-paying data roles are concentrated in San Francisco, CA, 
     and surrounding areas such as San Jose, Mountain View, and Sunnyvale, highlighting the region as a hotspot for lucrative data-related career opportunities.
 
-![Top Paying Companies](assets\top_paying_roles.png)
+![Top Paying Companies](assets/top_paying_roles.png)
 *Bar graph visualizing the top salaries from companies for Data Analyst positions in California; ChatGPT generated this graph from my SQL query results*
 
 ## 2. Skills Required for Top-Paying Jobs
