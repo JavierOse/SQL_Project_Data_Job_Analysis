@@ -127,7 +127,7 @@ Based on the top data analyst roles in California, here are the key insights reg
 
 These insights highlight the essential and desirable skills for data analyst roles in California, providing a clear focus for skill development.
 
-![Top Paying Companies](assets\Top_Skills.png)
+![Top Paying Companies](assets/Top_Skills.png)
 
 *Here is a bar chart that visualizes the skills for the top paying Data Analyst job in California with more than one mention; ChatGPT generated this graph from my SQL query results.*
 
@@ -262,7 +262,7 @@ Key insights about optimal skills to learn as a data analyst in California:
 
 3. **Balanced Skills**: Combining high-demand skills with top-paying skills, such as learning SQL, Python, Tableau, and Spark, 
     can optimize both job availability and earning potential in the data analyst field in California.
-![Top Optimal Skills](assets\Optimal_Skills.png)
+![Top Optimal Skills](assets/Optimal_Skills.png)
 *The chart below illustrates the demand count and average salary for various skills based on job postings for data analyst roles in California. The blue bars represent the number of job postings that mention each skill, while the red line indicates the average salary associated with each skill.
 This visualization helps identify which skills are in high demand and how they correlate with salary expectations. The chart was generated using data analysis techniques with the assistance of ChatGPT.*
 
